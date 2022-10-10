@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Louaye
 #### but you can call me Lou 
-![but you can call me Lou ](https://github.com/MFLXU/dice-game/blob/main/images/github-banner.png)
+![but you can call me Lou ]
 
 freelance front-end web developer specialized in designing and creating sleek and premium user interfaces with the help of react.
 
