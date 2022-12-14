@@ -4,8 +4,6 @@
 
 freelance front-end web developer specialized in designing and creating sleek and premium user interfaces with the help of react.
 
-Skills: REACT / JS / HTML / CSS
-
 - 🔭 I’m currently working on some freelancing gigs 
 - 🌱 I’m currently learning Node, MangoDB, ElectronJS
 - 📫 How to reach me: louayekazar@gmail.com 
